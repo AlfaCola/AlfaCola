@@ -1,0 +1,64 @@
+C:\Users\Student\Desktop\Языковая школа\Языковая школа\bin\Debug\Языковая школа.exe.config
+C:\Users\Student\Desktop\Языковая школа\Языковая школа\bin\Debug\Языковая школа.exe
+C:\Users\Student\Desktop\Языковая школа\Языковая школа\bin\Debug\Языковая школа.pdb
+C:\Users\Student\Desktop\Языковая школа\Языковая школа\obj\Debug\Языковая школа.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\Языковая школа\Языковая школа\obj\Debug\Языковая школа.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\Desktop\Языковая школа\Языковая школа\obj\Debug\MainWindow.g.cs
+C:\Users\Student\Desktop\Языковая школа\Языковая школа\obj\Debug\App.g.cs
+C:\Users\Student\Desktop\Языковая школа\Языковая школа\obj\Debug\Языковая школа_MarkupCompile.cache
+C:\Users\Student\Desktop\Языковая школа\Языковая школа\obj\Debug\Языковая школа_MarkupCompile.lref
+C:\Users\Student\Desktop\Языковая школа\Языковая школа\obj\Debug\App.baml
+C:\Users\Student\Desktop\Языковая школа\Языковая школа\obj\Debug\MainWindow.baml
+C:\Users\Student\Desktop\Языковая школа\Языковая школа\obj\Debug\Языковая школа.g.resources
+C:\Users\Student\Desktop\Языковая школа\Языковая школа\obj\Debug\Языковая_школа.Properties.Resources.resources
+C:\Users\Student\Desktop\Языковая школа\Языковая школа\obj\Debug\Языковая школа.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\Языковая школа\Языковая школа\obj\Debug\Языковая школа.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Языковая школа\Языковая школа\obj\Debug\Языковая школа.exe
+C:\Users\Student\Desktop\Языковая школа\Языковая школа\obj\Debug\Языковая школа.pdb
+C:\Users\Student\Desktop\Языковая школа\Языковая школа\obj\Debug\PagesAdmin\PageActivated.g.cs
+C:\Users\Student\Desktop\Языковая школа\Языковая школа\obj\Debug\PagesAdmin\PageMainAdmin.g.cs
+C:\Users\Student\Desktop\Языковая школа\Языковая школа\obj\Debug\PagesGuest\PageMainGuest.g.cs
+C:\Users\Student\Desktop\Языковая школа\Языковая школа\obj\Debug\PagesMain\PageLogin.g.cs
+C:\Users\Student\Desktop\Языковая школа\Языковая школа\obj\Debug\PagesAdmin\PageActivated.baml
+C:\Users\Student\Desktop\Языковая школа\Языковая школа\obj\Debug\PagesAdmin\PageMainAdmin.baml
+C:\Users\Student\Desktop\Языковая школа\Языковая школа\obj\Debug\PagesGuest\PageMainGuest.baml
+C:\Users\Student\Desktop\Языковая школа\Языковая школа\obj\Debug\PagesMain\PageLogin.baml
+D:\AUTORUN.INF\Флешка\РПиТПМ\WPF\Языковая школа\Языковая школа\bin\Debug\Языковая школа.exe.config
+D:\AUTORUN.INF\Флешка\РПиТПМ\WPF\Языковая школа\Языковая школа\bin\Debug\Языковая школа.exe
+D:\AUTORUN.INF\Флешка\РПиТПМ\WPF\Языковая школа\Языковая школа\bin\Debug\Языковая школа.pdb
+D:\AUTORUN.INF\Флешка\РПиТПМ\WPF\Языковая школа\Языковая школа\obj\Debug\Языковая школа.csproj.AssemblyReference.cache
+D:\AUTORUN.INF\Флешка\РПиТПМ\WPF\Языковая школа\Языковая школа\obj\Debug\MainWindow.g.cs
+D:\AUTORUN.INF\Флешка\РПиТПМ\WPF\Языковая школа\Языковая школа\obj\Debug\PagesAdmin\PageActivated.g.cs
+D:\AUTORUN.INF\Флешка\РПиТПМ\WPF\Языковая школа\Языковая школа\obj\Debug\PagesAdmin\PageAdd.g.cs
+D:\AUTORUN.INF\Флешка\РПиТПМ\WPF\Языковая школа\Языковая школа\obj\Debug\PagesAdmin\PageMainAdmin.g.cs
+D:\AUTORUN.INF\Флешка\РПиТПМ\WPF\Языковая школа\Языковая школа\obj\Debug\PagesGuest\PageMainGuest.g.cs
+D:\AUTORUN.INF\Флешка\РПиТПМ\WPF\Языковая школа\Языковая школа\obj\Debug\PagesMain\PageLogin.g.cs
+D:\AUTORUN.INF\Флешка\РПиТПМ\WPF\Языковая школа\Языковая школа\obj\Debug\App.g.cs
+D:\AUTORUN.INF\Флешка\РПиТПМ\WPF\Языковая школа\Языковая школа\obj\Debug\Языковая школа_MarkupCompile.cache
+D:\AUTORUN.INF\Флешка\РПиТПМ\WPF\Языковая школа\Языковая школа\obj\Debug\Языковая школа_MarkupCompile.lref
+D:\AUTORUN.INF\Флешка\РПиТПМ\WPF\Языковая школа\Языковая школа\obj\Debug\App.baml
+D:\AUTORUN.INF\Флешка\РПиТПМ\WPF\Языковая школа\Языковая школа\obj\Debug\MainWindow.baml
+D:\AUTORUN.INF\Флешка\РПиТПМ\WPF\Языковая школа\Языковая школа\obj\Debug\PagesAdmin\PageActivated.baml
+D:\AUTORUN.INF\Флешка\РПиТПМ\WPF\Языковая школа\Языковая школа\obj\Debug\PagesAdmin\PageAdd.baml
+D:\AUTORUN.INF\Флешка\РПиТПМ\WPF\Языковая школа\Языковая школа\obj\Debug\PagesAdmin\PageMainAdmin.baml
+D:\AUTORUN.INF\Флешка\РПиТПМ\WPF\Языковая школа\Языковая школа\obj\Debug\PagesGuest\PageMainGuest.baml
+D:\AUTORUN.INF\Флешка\РПиТПМ\WPF\Языковая школа\Языковая школа\obj\Debug\PagesMain\PageLogin.baml
+D:\AUTORUN.INF\Флешка\РПиТПМ\WPF\Языковая школа\Языковая школа\obj\Debug\Языковая школа.g.resources
+D:\AUTORUN.INF\Флешка\РПиТПМ\WPF\Языковая школа\Языковая школа\obj\Debug\Языковая_школа.Properties.Resources.resources
+D:\AUTORUN.INF\Флешка\РПиТПМ\WPF\Языковая школа\Языковая школа\obj\Debug\Языковая школа.csproj.GenerateResource.cache
+D:\AUTORUN.INF\Флешка\РПиТПМ\WPF\Языковая школа\Языковая школа\obj\Debug\Языковая школа.csproj.CoreCompileInputs.cache
+D:\AUTORUN.INF\Флешка\РПиТПМ\WPF\Языковая школа\Языковая школа\obj\Debug\Языковая школа.exe
+D:\AUTORUN.INF\Флешка\РПиТПМ\WPF\Языковая школа\Языковая школа\obj\Debug\Языковая школа.pdb
+D:\AUTORUN.INF\Флешка\РПиТПМ\WPF\Языковая школа\Языковая школа\obj\Debug\PagesAdmin\PageBlizZap.g.cs
+D:\AUTORUN.INF\Флешка\РПиТПМ\WPF\Языковая школа\Языковая школа\obj\Debug\PagesAdmin\PageEdit.g.cs
+D:\AUTORUN.INF\Флешка\РПиТПМ\WPF\Языковая школа\Языковая школа\obj\Debug\PagesAdmin\PageZapNaYsl.g.cs
+D:\AUTORUN.INF\Флешка\РПиТПМ\WPF\Языковая школа\Языковая школа\obj\Debug\PagesAdmin\PageBlizZap.baml
+D:\AUTORUN.INF\Флешка\РПиТПМ\WPF\Языковая школа\Языковая школа\obj\Debug\PagesAdmin\PageEdit.baml
+D:\AUTORUN.INF\Флешка\РПиТПМ\WPF\Языковая школа\Языковая школа\obj\Debug\PagesAdmin\PageZapNaYsl.baml
+D:\AUTORUN.INF\Флешка\РПиТПМ\WPF\Языковая школа\Языковая школа\bin\Debug\EntityFramework.dll
+D:\AUTORUN.INF\Флешка\РПиТПМ\WPF\Языковая школа\Языковая школа\bin\Debug\EntityFramework.SqlServer.dll
+D:\AUTORUN.INF\Флешка\РПиТПМ\WPF\Языковая школа\Языковая школа\bin\Debug\EntityFramework.xml
+D:\AUTORUN.INF\Флешка\РПиТПМ\WPF\Языковая школа\Языковая школа\bin\Debug\EntityFramework.SqlServer.xml
+D:\AUTORUN.INF\Флешка\РПиТПМ\WPF\Языковая школа\Языковая школа\bin\Debug\ru\EntityFramework.resources.dll
+D:\AUTORUN.INF\Флешка\РПиТПМ\WPF\Языковая школа\Языковая школа\obj\Debug\Языковая школа_Content.g.cs
+D:\AUTORUN.INF\Флешка\РПиТПМ\WPF\Языковая школа\Языковая школа\obj\Debug\Языковая школа.csproj.CopyComplete
